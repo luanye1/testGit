@@ -1,0 +1,22 @@
+.notice{
+	background:none no-repeat scroll 0 0 #fff;
+	border:1px solid #e4e4e4;
+	margin: 10px 0;
+	padding: 20px;
+	text-align: center;
+}
+.notice .ok{
+	background: url(../style/small.png) no-repeat -40px -20px scroll rgba(0,0,0,0);
+}
+.notice .ask{
+	background: url(../style/small.png) no-repeat -60px 0px scroll rgba(0,0,0,0);
+}
+.notice .error {
+	background:url(../style/small.png) no-repeat -20px -40px scroll rgba(0,0,0,0);
+}
+.notice .pic{
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+	vertical-align: middle;
+}
